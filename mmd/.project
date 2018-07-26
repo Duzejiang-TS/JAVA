@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mmd</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Lab_report/Circle13_09.class</name>
+			<type>1</type>
+			<location>F:/JAVA课程/Liang--Intro to Java Programming, Comprehensive Version,10E/0133593487_ExerciseSolutions-204554/exercise/Circle13_09.class</location>
+		</link>
+	</linkedResources>
+</projectDescription>
